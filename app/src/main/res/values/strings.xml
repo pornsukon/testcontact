@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">testcontact</string>
+
+    <string name="contacs">หากมีปัญหา ข้อสงสัย</string>
+    <string name="contacs1">ข้อร้องเรียน แจ้งของเสียหาย</string>
+    <string name="contacs2">ติดต่อ</string>
+    <string name="contacs3">พี่หน่อย email : teeboo@kku.ac.th</string>
+    <string name="contacs4">อ.ดร.กรชวัล ชายผา  FB : kornchawal namtarn chaipah</string>
+    <string name="contacs5">ผู้พัฒนา</string>
+    <string name="contacs6">ขนิษฐา ศิลาสิทธิ์ email : s.khanittha@kkumail.com</string>
+    <string name="contacs7">วรัญญา สมานญาติ email : wrya.sm@kkumail.com</string>
+    <string name="contacs8">ภรณ์สุคนธ์  วุฒิอมรศักดิ์ email : pornsukon@kkumail.com</string>
+
+
+
+
+
+
+
+
+
+</resources>
